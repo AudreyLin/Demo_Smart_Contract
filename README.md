@@ -4,6 +4,6 @@ This is a practice dApp to get an idea of how to make them on the Stellar platfo
 
 
 
-## Followed Tutorial
+## Resources
 
 - [Building dApps On Stellar](https://www.youtube.com/live/pfviOwq9gOQ?si=FBhYJhCcoEjRsdMb)
